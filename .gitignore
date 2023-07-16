@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore built or compiled files
+dist/
+build/
+
+# Ignore logs
+logs/
+
+# Ignore editor and IDE files
+.idea/
+.vscode/
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Ignore npm lock files
+package-lock.json
